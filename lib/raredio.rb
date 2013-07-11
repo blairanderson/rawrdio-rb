@@ -67,7 +67,7 @@ module Raredio
     end
 
     def root_url
-      "http://localhost:3000"
+      "http://raredio.herokuapp.com/"
     end
   end
 
